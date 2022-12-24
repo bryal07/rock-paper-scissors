@@ -2,6 +2,6 @@
 *This is an example of a rock-paper-scissors game.
 
 ##Tech
-*HTML
-*CSS
-*JS
+- HTML
+- CSS
+- JS
